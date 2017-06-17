@@ -13,12 +13,17 @@ This session will describe the variables of the `tidydata.txt` file.
   * Laying
  
 Some of the original variables have been renamed to give descriptive names.
+
 Variables containing the following patterns have been ranamed:
+
 * `Acc` -> `Acceleration`
 * `Gyro` -> `Gyroscope`
 * `Mag` -> `Magnitude`
 * `GyroJerk` -> `AngularAcceleration`
+
 Variables starting with:
+
 * `t` -> `Time`
 * `f` -> `Frequency`
+
 And variables containing the pattern `-std` have been ranamed to `StandardDeviation`
